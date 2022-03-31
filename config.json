@@ -1,0 +1,93 @@
+{
+  "Company": {
+    "frequency": 30,
+    "comparison_frequency": [
+      {
+        "=": 90
+      },
+      {
+        "!=": null
+      }
+    ]
+  },
+  "Date": {
+    "frequency": 20,
+    "comparison_frequency": [
+      {
+        "=": 10
+      },
+      {
+        "!=": null
+      }
+    ]
+  },
+  "Value": {
+    "frequency": 10,
+    "comparison_frequency": [
+      {
+        "=": null
+      },
+      {
+        "!=": null
+      },
+      {
+        "<": null
+      },
+      {
+        "<=": null
+      },
+      {
+        ">": null
+      },
+      {
+        ">=": null
+      }
+    ]
+  },
+  "Drop": {
+    "frequency": null,
+    "comparison_frequency": [
+      {
+        "=": null
+      },
+      {
+        "!=": null
+      },
+      {
+        "<": null
+      },
+      {
+        "<=": null
+      },
+      {
+        ">": null
+      },
+      {
+        ">=": null
+      }
+    ]
+  },
+  "Variation": {
+    "frequency": null,
+    "comparison_frequency": [
+      {
+        "=": null
+      },
+      {
+        "!=": null
+      },
+      {
+        "<": null
+      },
+      {
+        "<=": null
+      },
+      {
+        ">": null
+      },
+      {
+        ">=": null
+      }
+    ]
+  }
+}
